@@ -30,6 +30,9 @@ To simplify the decision boundary plotting, I selected two features: 'radius' an
 3. **Loss Function**: loss = -y(i).log(f(z)) - (1 - y(i)) .log(1 - f(z))
 
     This loss function is used to compute the cost function.
+   
+![formula_1](https://github.com/ANSHPG/Malignant-or-Benign-A-Logistic-Regression-Study/assets/132222062/43de7261-59a3-449f-b9bf-7d9df3c560d3)
+![forrmula_2](https://github.com/ANSHPG/Malignant-or-Benign-A-Logistic-Regression-Study/assets/132222062/3e755c33-5429-4962-ba76-a28adc21e8d9)
 
 ### Observations
 
