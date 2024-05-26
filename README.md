@@ -1,6 +1,7 @@
 # Malignant-or-Benign-A-Logistic-Regression-Study
 
-![LR_test](https://github.com/ANSHPG/Malignant-or-Benign-A-Logistic-Regression-Study/assets/132222062/d93bc12b-7ca2-44f1-bcac-b14c6a0d9894)
+![LR_train](https://github.com/ANSHPG/Malignant-or-Benign-A-Logistic-Regression-Study/assets/132222062/fb22b375-fd88-4ed1-932f-519dfa9b09eb)
+
 
 
 I have been working on a logistic regression project from scratch, without relying on external libraries like scikit-learn, to predict whether a patient has breast cancer or not. Typically, breast cancer is classified into two categories: malignant (positive) and benign (negative).
