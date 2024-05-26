@@ -24,6 +24,7 @@ To simplify the decision boundary plotting, I selected two features: 'radius' an
 ### Key Processes
 
 1. **Sigmoid Function**: 1/(1+e^-z)
+
 The sigmoid function returns a value between 0 and 1. The greater the value of \(z\), the closer the output will be to 1, where z = wx + b (with w  and  x as vectors, and x representing the features).
 
 3. **Loss Function**: loss = -y(i).log(f(z)) - (1 - y(i)) .log(1 - f(z))
