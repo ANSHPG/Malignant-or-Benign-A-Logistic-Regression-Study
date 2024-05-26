@@ -35,6 +35,7 @@ To simplify the decision boundary plotting, I selected two features: 'radius' an
 
 - **Degree**: Using a polynomial degree of 5 for the two features results in a total of 10 features. Higher degrees led to overfitting.
 - **Iterations**: More than 1000 iterations are unnecessary as the cost reduction becomes minimal beyond this point.
+  ![iterations](https://github.com/ANSHPG/Malignant-or-Benign-A-Logistic-Regression-Study/assets/132222062/f8a6296f-8426-4daf-9496-d8e126dc7ded)
 - **Learning Rate (\(\alpha\))**: Set to 0.01. Be cautious with higher values as it may lead to overshooting.
   
 ![COST_VS_ITERATION_100K](https://github.com/ANSHPG/Malignant-or-Benign-A-Logistic-Regression-Study/assets/132222062/9369ee25-2a12-488c-8771-19f3ec693c31) ![overshooting_alpha](https://github.com/ANSHPG/Malignant-or-Benign-A-Logistic-Regression-Study/assets/132222062/d9eb8ca3-0342-4f97-9873-364d2d4daecf)
